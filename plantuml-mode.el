@@ -6,8 +6,8 @@
 ;; Author: Zhang Weize (zwz)
 ;; Maintainer: Carlo Sciolla (skuro)
 ;; Keywords: uml plantuml ascii
-;; Version: 1.2.9
-;; Package-Version: 1.2.9
+;; Version: 1.4.2
+;; Package-Version: 1.4.2
 ;; Package-Requires: ((dash "2.0.0") (emacs "25.0"))
 
 ;; This file is free software; you can redistribute it and/or modify
@@ -37,6 +37,7 @@
 
 ;;; Change log:
 ;;
+;; version 1.4.2, 2021-06-17 Indentation improvements when indenting with tabs; fix `plantuml-indent-level' 
 ;; version 1.4.1, 2019-09-03 Better indentation; more bugfixing; actually adding `executable' mode
 ;; version 1.4.0, 2019-08-21 Added `executable' exec mode to use locally installed `plantuml' binaries, various bugfixes
 ;; version 1.3.1, 2019-08-02 Fixed interactive behavior of `plantuml-set-exec-mode'
