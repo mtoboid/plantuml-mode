@@ -1,2 +1,3 @@
 .cask
 .coveralls.yml
+bin/plantuml.jar
